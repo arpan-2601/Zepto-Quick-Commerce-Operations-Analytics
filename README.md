@@ -10,8 +10,11 @@ The core business problem addressed: which warehouse hubs are underperforming, a
 zepto-analytics/
 │
 ├── zepto.ipynb               # Python notebook — data cleaning & EDA
+
 ├── zepto_cleaned.csv         # Cleaned dataset (output of notebook)
+
 ├── zeptopbi.pbix             # Power BI dashboard file
+
 └── README.md
 
 🧹 Data Cleaning & Preprocessing (Python)
