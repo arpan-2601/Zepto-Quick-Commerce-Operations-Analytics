@@ -1,0 +1,1001 @@
+Order_ID,Delivery_Time,Order_Value,Items_Count,Distance_km,Delivery_Charge,Surge_Pricing,Time_Slot,Warehouse_Location,Rider_Rating,Customer_Rating,Inventory_Issue,Payment_Method,Order_Status
+1,43,1408,14,8,103,0,Morning,Central Hub,7,2,Unknown,Unknown,Unknown
+2,56,908,10,14,67,0,Afternoon,??,,4,,Card,Unknown
+3,33,484,11,-3,94,0,Afternoon,Unknown,5,4,Unknown,UPI,Delivered
+4,19,496,2,12,64,1,Morning,South Hub,4,4,Yes,Crypto?,Cancelled
+5,47,1381,9,14,48,,Afternoon,South Hub,7,,No,Card,Delivered
+6,12,298,17,50,51,0,Late Night,??,5,2,Unknown,UPI,Delivered
+7,25,215,3,3,101,0,Morning,Unknown,5,,Unknown,Unknown,Cancelled
+8,43,1554,6,7,56,2,Late Night,,1,8,No,,Delivered
+9,-10,1033,5,50,46,1,Afternoon,,2,3,Yes,COD,Cancelled
+10,23,1408,5,12,25,1,Morning,South Hub,5,10,Yes,Unknown,Cancelled
+11,27,1069,15,9,113,,Afternoon,North Hub,3,2,Unknown,UPI,Delivered
+12,15,591,17,,4,1,Morning,East Hub,2,10,,UPI,Delivered
+13,15,808,9,-3,83,2,Afternoon,,4,5,Unknown,UPI,Unknown
+14,28,1179,3,13,51,2,Late Night,North Hub,4,2,No,UPI,Delivered
+15,57,1636,,8,104,,Late Night,East Hub,4,8,No,COD,Cancelled
+16,40,130,17,14,53,2,Afternoon,South Hub,4,2,No,Card,Unknown
+17,44,182,10,8,14,0,Morning,Central Hub,3,,Unknown,Crypto?,Cancelled
+18,28,846,3,14,60,0,Evening,West Hub,7,3,Unknown,,Unknown
+19,7,949,18,7,121,2,Late Night,West Hub,-1,-2,Yes,COD,Delivered
+20,26,187,18,12,20,,Late Night,South Hub,5,3,,UPI,Delivered
+21,57,233,17,11,45,1,??,,4,3,Unknown,COD,Delivered
+22,6,1474,3,11,133,,Evening,North Hub,2,5,Yes,Unknown,Cancelled
+23,28,1403,3,13,37,1,Afternoon,Central Hub,2,8,Unknown,Crypto?,Unknown
+24,48,834,6,-3,61,2,Morning,??,5,10,Yes,UPI,Cancelled
+25,34,1581,13,2,85,2,??,East Hub,7,8,Yes,,Unknown
+26,42,1925,15,,77,0,Afternoon,South Hub,-1,-2,,UPI,Delivered
+27,6,1033,9,-3,45,1,,Central Hub,7,5,Unknown,Crypto?,Cancelled
+28,25,118,4,,140,,Late Night,Unknown,5,3,Yes,,Delivered
+29,37,595,14,12,2,2,,Central Hub,,,No,Crypto?,Cancelled
+30,16,1847,5,13,5,,Late Night,,3,5,No,,Delivered
+31,-10,102,2,11,92,0,Late Night,Unknown,5,4,No,Card,Cancelled
+32,26,1523,11,5,7,1,,East Hub,10,2,,Card,Cancelled
+33,48,254,9,1,107,1,,Unknown,1,8,Yes,COD,Unknown
+34,29,175,3,3,74,2,Afternoon,Central Hub,1,5,,COD,Delivered
+35,53,1820,9,7,76,1,??,,7,4,Unknown,,Unknown
+36,31,92,3,12,49,2,??,Unknown,5,10,Unknown,UPI,Unknown
+37,46,1825,2,,10,0,,North Hub,5,-2,Yes,Unknown,Delivered
+38,32,1956,12,5,94,1,Afternoon,,1,-2,No,Unknown,Cancelled
+39,20,160,10,,69,2,??,North Hub,-1,3,Yes,UPI,Unknown
+40,19,810,9,8,15,,Afternoon,North Hub,1,3,Yes,UPI,Delivered
+41,51,1736,15,10,67,2,Afternoon,Unknown,5,5,Yes,Card,Cancelled
+42,55,1256,8,0,98,1,Late Night,Unknown,-1,5,,Unknown,Unknown
+43,48,897,5,8,47,0,??,??,4,2,Unknown,,Unknown
+44,59,144,11,1,63,1,??,??,10,1,Yes,Crypto?,Unknown
+45,56,1447,2,12,89,1,Late Night,Central Hub,,10,Yes,COD,Cancelled
+46,120,1985,15,5,75,2,,,3,3,Yes,Crypto?,Unknown
+47,7,1593,6,3,138,,Late Night,??,4,1,,Card,Cancelled
+48,41,949,8,1,100,1,??,North Hub,2,1,,Unknown,Unknown
+49,55,409,5,4,88,,??,??,1,2,,UPI,Delivered
+50,11,949,16,8,17,2,,East Hub,10,,Yes,Unknown,Unknown
+51,25,1769,18,3,18,,Late Night,Central Hub,1,,No,,Delivered
+52,13,330,6,10,54,2,Morning,,1,3,No,Card,Delivered
+53,43,1268,5,2,101,0,Morning,,4,4,No,UPI,Delivered
+54,22,1937,16,11,117,,,West Hub,,2,Unknown,Crypto?,Cancelled
+55,8,1268,13,10,133,,Late Night,,-1,2,Yes,,Delivered
+56,29,716,5,14,3,0,Late Night,Central Hub,1,8,No,Crypto?,Unknown
+57,18,142,13,7,107,,Afternoon,East Hub,7,1,No,COD,Cancelled
+58,54,721,17,2,114,0,??,,5,8,No,Card,Delivered
+59,-10,110,18,9,28,1,Evening,West Hub,10,1,Yes,,Cancelled
+60,13,683,8,0,58,2,,Central Hub,7,,No,,Cancelled
+61,30,1124,13,13,124,0,Evening,North Hub,4,3,No,Crypto?,Cancelled
+62,57,1476,19,9,97,,Evening,South Hub,4,10,Yes,UPI,Unknown
+63,6,1862,3,4,16,0,,South Hub,,,Unknown,COD,Delivered
+64,24,1078,8,10,106,,Late Night,North Hub,,2,,Crypto?,Cancelled
+65,32,1539,2,12,42,1,,??,-1,10,No,,Cancelled
+66,51,653,8,50,79,0,Evening,,5,5,,Card,Cancelled
+67,11,731,13,14,7,1,??,Unknown,10,10,Unknown,,Delivered
+68,48,1902,13,14,140,2,??,South Hub,5,10,Unknown,Unknown,Cancelled
+69,12,583,1,2,105,,??,??,2,,No,Card,Cancelled
+70,51,1478,6,11,7,,Late Night,South Hub,,2,Yes,Card,Unknown
+71,39,887,19,0,95,1,Morning,North Hub,-1,10,Unknown,,Delivered
+72,18,1586,16,6,93,2,,,3,,,UPI,Unknown
+73,21,694,8,5,64,0,??,,1,,,Card,Delivered
+74,40,282,1,4,38,0,,??,1,10,,Unknown,Delivered
+75,54,573,16,,80,,??,North Hub,3,1,,Crypto?,Delivered
+76,44,395,9,4,83,1,Late Night,??,5,2,Unknown,UPI,Unknown
+77,8,1119,13,10,87,1,Morning,,3,-2,No,UPI,Unknown
+78,6,595,11,3,85,0,Morning,Unknown,-1,10,No,UPI,Unknown
+79,10,1151,13,5,92,2,??,,10,8,,Card,Unknown
+80,58,1803,-5,6,85,2,Late Night,Central Hub,3,8,No,UPI,Cancelled
+81,46,1886,10,8,43,0,Afternoon,Unknown,-1,5,,,Cancelled
+82,8,1996,4,7,136,0,,??,,2,,UPI,Cancelled
+83,58,1146,6,10,73,1,,Central Hub,7,,Yes,Unknown,Delivered
+84,33,843,7,6,35,2,Evening,North Hub,4,3,Unknown,COD,Cancelled
+85,22,298,5,14,100,0,Late Night,East Hub,4,4,Unknown,Unknown,Delivered
+86,30,96,11,4,103,0,Evening,South Hub,2,2,,Card,Unknown
+87,48,1194,13,13,65,,??,Central Hub,5,2,Unknown,UPI,Delivered
+88,38,263,19,50,54,0,Evening,South Hub,10,10,No,UPI,Delivered
+89,14,288,10,7,90,0,Morning,West Hub,7,10,,,Cancelled
+90,40,1129,10,4,21,2,,North Hub,7,,Yes,Crypto?,Unknown
+91,18,399,11,14,100,1,Evening,East Hub,,5,No,UPI,Unknown
+92,35,156,-5,3,120,2,Morning,West Hub,3,10,Yes,Unknown,Cancelled
+93,52,880,7,5,92,1,Late Night,West Hub,5,4,Yes,Card,Unknown
+94,19,97,18,0,107,,Evening,,1,4,Unknown,COD,Unknown
+95,12,1646,4,4,140,0,??,West Hub,7,5,Unknown,UPI,Unknown
+96,18,386,2,2,9,,??,North Hub,-1,1,,COD,Cancelled
+97,27,1099,14,-3,8,1,??,Central Hub,1,1,Unknown,UPI,Unknown
+98,120,853,13,50,33,2,,North Hub,2,2,Yes,Card,Delivered
+99,44,1330,12,14,128,2,Evening,Central Hub,3,10,Yes,Crypto?,Delivered
+100,25,57,7,13,88,,Late Night,West Hub,3,8,No,Unknown,Unknown
+101,20,674,2,12,92,1,Evening,West Hub,10,-2,Yes,Card,Cancelled
+102,49,1940,13,6,70,,,Unknown,7,5,,COD,Cancelled
+103,22,1326,14,4,66,,Morning,East Hub,,2,,UPI,Cancelled
+104,51,1765,17,0,147,0,,Central Hub,4,8,Unknown,COD,Unknown
+105,57,768,9,13,116,,??,West Hub,-1,10,Unknown,Unknown,Unknown
+106,28,352,17,4,93,0,Morning,,1,8,Unknown,Card,Delivered
+107,30,688,8,50,98,0,??,Unknown,2,8,,COD,Cancelled
+108,29,105,2,1,112,2,Afternoon,South Hub,4,5,Yes,COD,Delivered
+109,49,775,13,-3,102,0,,Unknown,3,2,Unknown,Unknown,Delivered
+110,45,575,3,50,90,0,,East Hub,1,,No,UPI,Cancelled
+111,33,523,16,,89,2,Late Night,North Hub,5,4,Unknown,COD,Unknown
+112,19,77,6,11,16,,Evening,East Hub,7,2,,Unknown,Unknown
+113,49,127,19,13,17,1,Morning,South Hub,2,-2,Unknown,UPI,Delivered
+114,5,1289,7,1,115,1,Morning,Unknown,5,8,Yes,Crypto?,Delivered
+115,29,1459,10,50,92,1,Late Night,Central Hub,,,Unknown,UPI,Delivered
+116,11,414,9,6,90,,Late Night,North Hub,7,5,,Crypto?,Delivered
+117,13,715,2,4,81,0,Evening,North Hub,1,3,,Card,Cancelled
+118,28,575,15,0,67,1,??,Central Hub,7,4,No,Unknown,Delivered
+119,5,748,5,,113,,Evening,??,4,3,,UPI,Delivered
+120,48,1385,4,,0,0,,??,10,10,No,Crypto?,Unknown
+121,12,932,,6,57,2,??,East Hub,4,3,Yes,Crypto?,Unknown
+122,28,1080,4,,108,1,Afternoon,West Hub,,8,,Card,Unknown
+123,15,1076,18,14,147,0,Evening,??,-1,8,Unknown,,Cancelled
+124,55,1696,4,11,115,1,Late Night,East Hub,5,8,Yes,Unknown,Cancelled
+125,21,968,17,7,86,1,??,??,4,8,Unknown,,Unknown
+126,12,799,12,9,9,1,Evening,South Hub,10,2,Unknown,UPI,Unknown
+127,39,412,17,0,58,0,Morning,,-1,3,Unknown,Unknown,Delivered
+128,39,1824,10,5,40,,Afternoon,West Hub,4,-2,Yes,Card,Delivered
+129,37,1581,1,10,104,0,,East Hub,3,3,Yes,UPI,Cancelled
+130,9,1347,18,-3,132,1,Morning,,10,2,,Unknown,Cancelled
+131,46,1579,18,3,121,0,Morning,,5,-2,Unknown,Unknown,Delivered
+132,43,855,14,13,144,2,Afternoon,Unknown,2,-2,No,,Unknown
+133,-10,788,15,11,21,,,??,-1,4,,UPI,Delivered
+134,45,1956,12,50,97,0,Late Night,Unknown,3,-2,Yes,Card,Cancelled
+135,32,1088,4,13,67,2,??,Central Hub,2,3,No,Card,Cancelled
+136,11,1265,3,6,138,,,South Hub,1,8,Yes,UPI,Delivered
+137,13,1704,,50,55,2,Evening,South Hub,10,8,No,UPI,Delivered
+138,12,534,12,13,148,,Morning,South Hub,3,10,,Crypto?,Delivered
+139,16,77,7,10,98,0,Evening,West Hub,7,4,No,COD,Cancelled
+140,38,763,11,3,75,2,Late Night,North Hub,1,3,,,Unknown
+141,37,1112,1,14,25,1,Evening,West Hub,1,3,Yes,UPI,Delivered
+142,52,1346,6,5,114,2,,East Hub,-1,5,No,UPI,Cancelled
+143,59,1304,15,5,146,,Evening,,10,1,Unknown,COD,Cancelled
+144,27,135,15,50,108,0,Late Night,,3,3,Unknown,COD,Cancelled
+145,28,1547,19,10,46,,Late Night,Unknown,,,Yes,Unknown,Delivered
+146,41,175,11,5,70,2,Late Night,North Hub,3,3,No,Card,Delivered
+147,39,861,2,4,39,2,,East Hub,4,5,Unknown,,Unknown
+148,48,586,14,6,132,1,Late Night,North Hub,1,-2,,Unknown,Cancelled
+149,44,194,2,4,148,0,Morning,,5,2,No,UPI,Delivered
+150,26,1598,4,7,131,0,Late Night,??,1,2,No,COD,Cancelled
+151,31,1285,17,7,22,2,Evening,West Hub,1,,Unknown,Crypto?,Cancelled
+152,39,74,3,-3,105,0,??,South Hub,7,,,Card,Unknown
+153,5,1653,13,3,83,1,Evening,,,10,,Unknown,Delivered
+154,39,1467,9,1,142,,??,Central Hub,2,2,,Crypto?,Delivered
+155,41,116,7,4,115,0,Evening,South Hub,2,-2,No,Card,Cancelled
+156,51,282,15,6,108,2,,,7,2,Yes,Crypto?,Cancelled
+157,18,158,11,9,135,,Evening,West Hub,1,1,No,COD,Unknown
+158,7,1219,,14,40,,,North Hub,2,2,No,Unknown,Unknown
+159,5,160,2,12,111,1,,??,10,8,Unknown,Unknown,Unknown
+160,9,277,15,4,146,2,Late Night,??,,10,Yes,Card,Unknown
+161,30,160,14,12,111,0,Morning,South Hub,2,5,,Crypto?,Unknown
+162,59,1543,,10,102,2,??,West Hub,7,,Unknown,COD,Unknown
+163,18,83,11,7,45,,Late Night,??,4,1,No,UPI,Cancelled
+164,43,672,3,3,67,2,Late Night,??,2,,Yes,Unknown,Unknown
+165,31,1849,17,14,121,0,,East Hub,,10,,UPI,Cancelled
+166,13,1442,12,10,14,0,,Central Hub,-1,3,,COD,Cancelled
+167,19,797,-5,0,128,1,??,South Hub,-1,1,No,Unknown,Delivered
+168,19,644,15,0,110,0,Evening,North Hub,10,4,,Unknown,Cancelled
+169,30,1627,16,10,23,0,Evening,??,3,1,,Crypto?,Cancelled
+170,46,474,5,13,26,2,Late Night,East Hub,3,10,Yes,UPI,Unknown
+171,17,662,,6,39,2,Afternoon,West Hub,2,5,Unknown,Crypto?,Cancelled
+172,55,1591,6,12,23,,Afternoon,??,5,1,Yes,,Unknown
+173,36,741,19,9,23,1,Evening,Unknown,4,10,Unknown,UPI,Unknown
+174,43,1355,5,13,3,2,Afternoon,Central Hub,7,-2,Unknown,UPI,Unknown
+175,53,1393,3,4,66,0,Evening,North Hub,4,2,Unknown,,Delivered
+176,56,1811,1,11,33,,,West Hub,-1,-2,,COD,Unknown
+177,36,1516,6,-3,115,2,Late Night,West Hub,2,10,Yes,COD,Cancelled
+178,8,364,15,11,22,1,Morning,South Hub,,8,,Unknown,Unknown
+179,34,926,2,4,108,1,Late Night,??,7,3,No,Card,Unknown
+180,41,1814,3,-3,68,,Evening,South Hub,4,2,Yes,Crypto?,Unknown
+181,27,1450,17,1,94,,Evening,North Hub,,8,Unknown,Card,Delivered
+182,43,1362,12,7,61,,Late Night,Unknown,7,5,,Unknown,Cancelled
+183,49,1510,18,6,56,,??,??,4,,,Card,Delivered
+184,19,711,15,,53,,Evening,,10,4,Yes,UPI,Cancelled
+185,47,326,12,-3,69,0,Afternoon,??,-1,2,Yes,UPI,Delivered
+186,33,1783,16,11,100,0,Afternoon,Unknown,1,-2,Unknown,,Cancelled
+187,40,1655,8,,56,2,Evening,,7,3,Unknown,,Delivered
+188,17,1576,14,0,137,1,Evening,West Hub,-1,8,No,Unknown,Unknown
+189,36,673,17,7,134,0,??,South Hub,5,10,Unknown,Unknown,Delivered
+190,11,565,-5,10,102,0,Afternoon,Central Hub,2,2,,Unknown,Delivered
+191,55,1423,8,12,84,0,Evening,??,,,No,UPI,Unknown
+192,26,892,15,14,60,2,Evening,Central Hub,7,10,No,Card,Unknown
+193,32,1519,14,5,2,,??,??,2,8,No,Crypto?,Cancelled
+194,6,1903,18,-3,127,2,??,West Hub,2,3,Yes,Unknown,Cancelled
+195,46,399,,5,85,1,Late Night,South Hub,1,1,Unknown,Unknown,Cancelled
+196,49,1680,7,3,46,1,??,North Hub,4,,No,UPI,Delivered
+197,120,1737,3,5,75,1,Morning,North Hub,7,10,Yes,Crypto?,Cancelled
+198,57,872,12,50,37,1,Afternoon,North Hub,-1,,Yes,UPI,Delivered
+199,10,1210,-5,12,140,0,Late Night,??,3,5,No,Crypto?,Delivered
+200,32,808,3,9,86,0,Morning,??,7,10,No,UPI,Cancelled
+201,32,948,,1,57,2,Evening,Central Hub,7,2,,Card,Cancelled
+202,48,292,14,-3,49,,Evening,South Hub,7,1,No,Unknown,Delivered
+203,48,592,15,4,29,1,Late Night,Unknown,2,1,,COD,Unknown
+204,24,1113,14,10,100,2,??,??,,4,No,COD,Unknown
+205,34,278,7,7,24,0,Evening,South Hub,2,,No,Unknown,Delivered
+206,15,597,17,1,111,0,,Central Hub,,-2,Unknown,Unknown,Cancelled
+207,-10,969,12,50,125,,Late Night,??,3,1,No,Unknown,Delivered
+208,59,1296,,2,122,,Morning,North Hub,2,1,No,Unknown,Delivered
+209,32,55,4,11,46,,Late Night,North Hub,,5,,Crypto?,Cancelled
+210,29,1395,9,9,117,2,Afternoon,West Hub,2,5,,Card,Unknown
+211,43,517,6,7,38,0,??,,5,5,Unknown,COD,Delivered
+212,37,1805,16,50,15,0,??,East Hub,2,,No,,Unknown
+213,5,124,-5,50,21,,Late Night,Unknown,3,10,No,COD,Unknown
+214,120,53,-5,2,53,1,Evening,,3,3,,COD,Cancelled
+215,31,1920,2,6,148,,Evening,??,,-2,Yes,UPI,Delivered
+216,120,695,8,14,15,2,,South Hub,,1,Yes,Unknown,Delivered
+217,56,167,11,6,58,,,??,3,4,Yes,Unknown,Unknown
+218,17,930,13,2,30,,??,South Hub,3,-2,,Unknown,Unknown
+219,45,1679,17,1,31,2,,South Hub,1,10,,UPI,Cancelled
+220,7,553,8,10,8,,Morning,,7,-2,Yes,Card,Unknown
+221,43,996,-5,5,138,0,,East Hub,10,1,Yes,Card,Cancelled
+222,10,623,18,2,9,1,Morning,West Hub,2,-2,No,,Delivered
+223,12,1514,18,0,16,,,,4,3,,Card,Cancelled
+224,31,243,14,2,67,2,??,East Hub,7,-2,,Card,Unknown
+225,13,896,15,10,47,1,??,North Hub,10,1,Yes,Unknown,Delivered
+226,41,764,6,2,110,2,Morning,North Hub,1,1,Yes,Crypto?,Cancelled
+227,37,1465,11,0,122,1,Late Night,South Hub,4,-2,Unknown,COD,Delivered
+228,55,1099,13,0,148,1,??,Central Hub,,,,Card,Cancelled
+229,46,1508,1,7,100,,Late Night,??,3,4,Unknown,Card,Unknown
+230,48,222,6,12,101,0,Evening,??,5,8,No,UPI,Unknown
+231,28,1373,9,,64,,Morning,South Hub,-1,5,Unknown,,Delivered
+232,19,1718,8,8,50,2,??,Central Hub,3,8,Yes,Crypto?,Delivered
+233,58,375,11,6,35,2,Afternoon,Unknown,5,10,,UPI,Delivered
+234,36,1483,19,10,80,1,Evening,East Hub,10,10,,Unknown,Cancelled
+235,36,1191,9,3,126,1,Late Night,Unknown,,1,Unknown,COD,Unknown
+236,28,885,17,50,87,0,??,Unknown,4,10,Unknown,,Delivered
+237,45,1860,12,7,103,,Morning,North Hub,10,,No,UPI,Delivered
+238,56,773,14,4,14,2,,Unknown,3,4,No,Card,Delivered
+239,53,274,15,14,95,1,Afternoon,??,3,10,Yes,Card,Cancelled
+240,53,581,16,,122,0,Late Night,,4,3,Yes,,Delivered
+241,-10,162,,8,0,2,Evening,Central Hub,-1,4,Yes,Card,Delivered
+242,56,189,1,,,1,Morning,East Hub,5,,Unknown,UPI,Cancelled
+243,16,608,10,14,121,2,Afternoon,North Hub,10,8,Unknown,UPI,Cancelled
+244,43,50,8,9,125,0,Morning,Unknown,,4,,Card,Delivered
+245,6,139,18,8,56,0,??,,3,4,Yes,Card,Delivered
+246,7,703,1,50,80,2,,Central Hub,10,8,Unknown,Unknown,Cancelled
+247,53,369,2,2,72,,Evening,South Hub,-1,,,COD,Unknown
+248,41,1623,1,3,140,2,Morning,South Hub,10,10,Yes,,Cancelled
+249,53,1878,1,8,69,1,Late Night,South Hub,4,1,No,UPI,Unknown
+250,,1967,9,12,5,,??,??,,8,No,,Delivered
+251,21,188,13,1,83,1,??,East Hub,1,8,Unknown,Unknown,Delivered
+252,53,1584,1,10,51,2,Evening,South Hub,4,8,,UPI,Unknown
+253,6,1941,13,3,2,,??,??,10,8,No,Unknown,Cancelled
+254,6,894,,6,80,1,Late Night,West Hub,1,10,,Unknown,Delivered
+255,32,308,7,7,62,2,Morning,??,3,-2,,Crypto?,Unknown
+256,58,1746,2,-3,48,2,Evening,North Hub,1,-2,No,Card,Cancelled
+257,27,951,6,11,75,,??,??,-1,2,,Crypto?,Unknown
+258,41,739,7,5,111,2,??,East Hub,2,8,No,,Cancelled
+259,36,59,14,11,108,0,Late Night,,-1,8,Unknown,,Cancelled
+260,37,310,18,12,64,1,,Unknown,4,4,Yes,Card,Cancelled
+261,5,1992,15,10,80,1,,??,2,-2,Yes,Crypto?,Cancelled
+262,23,1723,2,8,14,2,??,South Hub,4,10,Unknown,,Unknown
+263,6,221,10,9,99,2,Morning,North Hub,,1,No,Crypto?,Unknown
+264,57,947,12,4,31,0,Evening,Central Hub,7,2,No,Card,Unknown
+265,48,62,17,5,95,,??,South Hub,3,2,No,UPI,Unknown
+266,30,1241,8,8,127,2,Afternoon,North Hub,3,10,No,Unknown,Unknown
+267,36,1715,11,9,145,2,Evening,West Hub,10,1,Unknown,Unknown,Cancelled
+268,10,1669,3,,112,2,,Unknown,5,4,Yes,Crypto?,Delivered
+269,36,370,6,,82,2,??,Central Hub,4,5,,,Delivered
+270,59,1392,9,0,42,1,Late Night,West Hub,7,-2,,Crypto?,Unknown
+271,8,1686,6,14,115,2,Afternoon,,7,8,Yes,Crypto?,Unknown
+272,59,378,9,8,77,1,??,North Hub,-1,10,Unknown,COD,Delivered
+273,15,834,7,-3,57,2,Morning,West Hub,-1,-2,,Unknown,Cancelled
+274,,826,9,10,32,,Afternoon,Unknown,5,8,Yes,Card,Unknown
+275,21,960,18,6,13,0,??,Unknown,10,5,Unknown,Crypto?,Cancelled
+276,42,1993,12,12,131,,Morning,,1,5,,COD,Delivered
+277,28,1623,8,2,58,2,Afternoon,Unknown,-1,,No,COD,Delivered
+278,9,1492,8,7,82,2,Morning,North Hub,10,5,No,Unknown,Unknown
+279,56,1679,18,0,133,2,Morning,North Hub,,-2,Unknown,Unknown,Cancelled
+280,38,1168,,3,120,,Afternoon,Unknown,3,3,No,Unknown,Unknown
+281,10,1890,15,13,82,2,Afternoon,West Hub,3,3,Unknown,Card,Delivered
+282,26,1654,7,3,26,,Morning,North Hub,10,8,Yes,COD,Cancelled
+283,15,367,11,-3,79,1,,South Hub,5,8,Yes,,Unknown
+284,52,285,,11,133,0,Afternoon,Unknown,7,,,Card,Unknown
+285,20,383,16,8,12,0,??,North Hub,5,3,Unknown,UPI,Unknown
+286,37,1958,4,6,63,,Evening,East Hub,10,8,,Crypto?,Delivered
+287,13,425,6,1,146,1,Late Night,,4,5,,Unknown,Unknown
+288,10,1532,3,1,79,,Morning,Unknown,2,8,Yes,COD,Cancelled
+289,20,1210,9,8,122,1,Morning,North Hub,3,2,,Crypto?,Unknown
+290,33,637,10,5,42,2,Late Night,East Hub,10,,No,Card,Delivered
+291,7,1620,14,0,88,1,,North Hub,7,10,,UPI,Unknown
+292,24,562,11,11,147,1,Late Night,North Hub,2,1,Unknown,Card,Delivered
+293,40,1369,18,5,94,1,Afternoon,West Hub,,4,No,Card,Delivered
+294,23,1393,12,4,,0,Late Night,South Hub,-1,1,Yes,,Cancelled
+295,30,967,12,6,1,1,Morning,Unknown,4,1,Unknown,Crypto?,Cancelled
+296,7,1645,13,14,119,2,Late Night,,-1,10,No,,Unknown
+297,23,1905,13,9,21,2,Evening,Unknown,2,8,Unknown,Card,Delivered
+298,24,1422,19,12,114,2,??,South Hub,2,1,No,UPI,Delivered
+299,36,1913,19,11,56,1,Afternoon,Central Hub,-1,2,Unknown,COD,Cancelled
+300,11,1852,14,14,71,,Late Night,West Hub,7,4,Unknown,COD,Cancelled
+301,56,922,4,0,6,,Morning,West Hub,7,1,No,Crypto?,Unknown
+302,45,1302,13,1,118,2,??,South Hub,1,3,Yes,Unknown,Delivered
+303,37,319,8,13,113,0,Afternoon,??,,10,Yes,Unknown,Cancelled
+304,44,1901,-5,13,15,,Morning,West Hub,7,10,Unknown,COD,Unknown
+305,43,847,19,2,82,1,,Unknown,,10,Unknown,Card,Delivered
+306,22,1364,12,4,71,,Evening,South Hub,,,Yes,Card,Delivered
+307,44,774,18,6,123,2,,West Hub,2,,Yes,,Cancelled
+308,5,1238,6,5,112,0,Evening,North Hub,,5,,Crypto?,Unknown
+309,15,54,18,3,11,,Late Night,South Hub,4,-2,Yes,,Cancelled
+310,32,900,19,1,125,,Afternoon,South Hub,-1,4,Unknown,Unknown,Unknown
+311,120,1452,5,4,52,2,Late Night,Unknown,1,8,No,COD,Delivered
+312,29,127,9,2,74,0,Evening,East Hub,10,1,Yes,Card,Unknown
+313,54,1483,3,5,132,0,Evening,West Hub,5,-2,,COD,Unknown
+314,27,623,10,3,26,2,Evening,West Hub,1,8,,UPI,Unknown
+315,35,181,19,9,139,1,??,South Hub,4,-2,,COD,Unknown
+316,34,650,3,6,144,,Morning,North Hub,1,8,No,UPI,Unknown
+317,46,1822,15,-3,133,1,Afternoon,North Hub,,2,Yes,,Cancelled
+318,39,1115,1,6,96,,Late Night,,2,,Yes,,Unknown
+319,11,138,7,12,4,,Late Night,North Hub,5,4,Yes,Unknown,Unknown
+320,20,451,12,11,56,1,,West Hub,7,3,No,COD,Delivered
+321,30,345,17,2,77,2,Evening,??,2,2,No,COD,Unknown
+322,52,1913,-5,,68,2,Evening,East Hub,,,Unknown,UPI,Delivered
+323,120,1368,,12,117,,Evening,South Hub,,10,,,Cancelled
+324,56,665,5,12,119,2,Late Night,Central Hub,5,,,UPI,Cancelled
+325,53,1599,4,9,58,,,East Hub,5,-2,Yes,,Unknown
+326,6,849,12,2,32,2,Morning,Unknown,3,5,No,UPI,Cancelled
+327,5,1764,,3,61,,??,Unknown,2,2,No,,Unknown
+328,52,1710,18,12,49,2,Afternoon,??,7,10,Yes,UPI,Cancelled
+329,16,471,17,0,111,0,Morning,Central Hub,1,-2,Yes,,Unknown
+330,9,1938,19,1,18,1,Late Night,East Hub,,4,Unknown,Crypto?,Unknown
+331,41,1096,9,3,122,0,??,North Hub,,,,UPI,Delivered
+332,36,624,4,2,46,1,??,West Hub,3,10,,COD,Delivered
+333,59,192,-5,9,32,1,??,??,2,-2,,Unknown,Delivered
+334,13,1042,2,,140,,Evening,Central Hub,2,5,Unknown,Crypto?,Delivered
+335,45,714,4,-3,83,1,Afternoon,??,-1,,Yes,Crypto?,Unknown
+336,39,194,2,11,134,0,Late Night,East Hub,5,4,Yes,UPI,Cancelled
+337,23,1298,15,0,78,0,Late Night,West Hub,7,5,,Unknown,Unknown
+338,52,1056,2,50,13,2,??,??,5,8,,COD,Delivered
+339,20,552,4,5,146,0,Late Night,Central Hub,7,-2,Unknown,Crypto?,Delivered
+340,7,870,6,12,127,2,Afternoon,South Hub,4,,No,COD,Cancelled
+341,24,1689,7,11,53,1,Afternoon,East Hub,10,,No,,Delivered
+342,28,153,10,,147,0,,South Hub,7,10,,Unknown,Unknown
+343,58,1112,19,3,28,1,,North Hub,5,4,Unknown,Card,Unknown
+344,,247,19,1,23,0,Morning,South Hub,,3,,,Unknown
+345,37,1719,12,0,81,0,Afternoon,South Hub,5,8,No,Unknown,Unknown
+346,28,628,3,2,62,2,Afternoon,,7,5,,UPI,Unknown
+347,56,440,13,2,104,1,Afternoon,East Hub,2,2,No,UPI,Cancelled
+348,15,1252,18,3,56,0,,North Hub,5,2,No,COD,Unknown
+349,53,603,8,8,135,,??,South Hub,3,,No,Crypto?,Delivered
+350,12,1521,-5,,61,1,??,Unknown,-1,10,Yes,Card,Delivered
+351,40,1573,15,7,16,1,Late Night,West Hub,,1,Yes,UPI,Delivered
+352,42,1088,1,6,65,1,??,Central Hub,3,,,Unknown,Delivered
+353,44,1696,3,9,5,2,Evening,South Hub,7,2,No,Crypto?,Cancelled
+354,24,1742,8,1,57,,,North Hub,4,2,Yes,Crypto?,Delivered
+355,39,1362,4,8,68,1,Afternoon,South Hub,3,8,,Unknown,Cancelled
+356,52,527,16,3,61,0,??,Central Hub,10,1,,Crypto?,Delivered
+357,29,1304,10,4,81,0,,North Hub,4,,,UPI,Cancelled
+358,39,972,12,,70,2,??,East Hub,1,8,,Unknown,Cancelled
+359,29,469,14,6,130,0,Morning,North Hub,,10,,Unknown,Cancelled
+360,33,206,14,,9,1,Afternoon,East Hub,1,8,Unknown,COD,Delivered
+361,22,599,2,3,97,0,Morning,North Hub,5,,No,Card,Cancelled
+362,50,1514,5,14,88,1,Afternoon,Unknown,7,-2,,COD,Unknown
+363,22,1170,5,14,34,0,,??,,3,Unknown,Card,Unknown
+364,6,1070,6,4,1,,Late Night,Central Hub,2,,No,Unknown,Delivered
+365,58,1046,13,12,123,2,??,Central Hub,4,4,Yes,Crypto?,Unknown
+366,39,1484,9,50,23,2,??,North Hub,2,2,,Card,Unknown
+367,20,1000,15,7,73,,Evening,??,1,1,Unknown,Unknown,Unknown
+368,45,338,14,9,21,,Morning,South Hub,3,1,Yes,Unknown,Delivered
+369,40,1327,7,3,38,2,??,Central Hub,3,3,Unknown,COD,Delivered
+370,37,245,,13,19,,,Unknown,7,4,No,COD,Unknown
+371,8,647,2,,40,1,Late Night,East Hub,1,2,No,Crypto?,Delivered
+372,37,1907,7,-3,147,0,,East Hub,-1,1,Yes,,Cancelled
+373,18,1595,6,1,107,2,Morning,West Hub,,4,Unknown,UPI,Unknown
+374,25,566,17,6,146,,Evening,,4,8,,,Delivered
+375,52,1708,2,2,83,1,??,??,3,,,,Delivered
+376,24,1915,3,14,110,2,,,3,,Yes,Crypto?,Unknown
+377,,914,5,6,65,,Afternoon,,2,-2,Yes,Card,Delivered
+378,12,1191,5,14,52,2,Late Night,East Hub,2,2,Yes,Crypto?,Unknown
+379,11,855,1,4,33,,,Unknown,5,4,Unknown,Crypto?,Delivered
+380,7,1982,8,8,149,2,Late Night,Unknown,-1,5,,Unknown,Cancelled
+381,21,1232,12,3,66,1,??,West Hub,2,1,,Unknown,Unknown
+382,37,864,4,14,133,1,Afternoon,,2,10,,Unknown,Cancelled
+383,52,277,13,50,26,0,Evening,,,10,Yes,UPI,Unknown
+384,16,1950,15,8,9,2,Evening,North Hub,2,,,Card,Delivered
+385,55,265,11,14,72,0,Afternoon,North Hub,4,5,No,Card,Cancelled
+386,26,997,10,6,95,2,Late Night,North Hub,,10,Yes,Unknown,Delivered
+387,59,1769,3,0,47,,??,South Hub,5,3,,,Unknown
+388,26,64,14,14,69,,,,1,3,Unknown,UPI,Unknown
+389,50,1230,16,3,99,0,Afternoon,Unknown,,2,Yes,,Unknown
+390,34,1721,10,10,58,2,Morning,Unknown,1,5,No,COD,Unknown
+391,42,1334,10,9,1,0,Late Night,South Hub,3,3,No,Card,Unknown
+392,42,1230,12,13,64,1,Evening,Unknown,5,3,Unknown,Card,Cancelled
+393,49,96,9,7,82,0,Afternoon,West Hub,5,,Unknown,,Unknown
+394,55,373,1,14,9,0,Evening,??,,10,Yes,UPI,Delivered
+395,58,893,5,9,52,,Late Night,East Hub,10,2,Yes,Card,Cancelled
+396,12,1758,,,78,0,Evening,,5,4,No,,Delivered
+397,31,179,8,14,58,2,Afternoon,Unknown,1,8,Unknown,Crypto?,Unknown
+398,31,1484,11,6,149,,Late Night,East Hub,5,1,Yes,Crypto?,Delivered
+399,38,144,12,4,47,0,Morning,Unknown,3,1,No,UPI,Cancelled
+400,25,676,1,8,148,1,Afternoon,??,4,8,Unknown,,Cancelled
+401,34,804,,50,122,0,,North Hub,10,8,No,Crypto?,Cancelled
+402,37,1365,11,9,21,0,??,,7,1,,UPI,Delivered
+403,32,843,5,1,99,0,Afternoon,Central Hub,5,1,Unknown,Unknown,Cancelled
+404,51,1884,15,14,97,,Late Night,South Hub,2,4,Yes,UPI,Delivered
+405,37,1356,5,11,24,2,??,South Hub,,5,Yes,COD,Unknown
+406,9,118,12,3,27,1,Afternoon,,,5,,Unknown,Unknown
+407,52,1733,5,9,112,0,Morning,??,,4,Unknown,,Delivered
+408,23,60,17,14,44,2,Morning,North Hub,-1,10,No,Unknown,Cancelled
+409,8,1327,17,9,67,2,,South Hub,10,8,Yes,Unknown,Delivered
+410,39,1915,12,4,6,,Evening,North Hub,10,-2,,,Delivered
+411,53,921,15,4,48,1,??,West Hub,1,8,,,Delivered
+412,21,599,15,8,136,,Late Night,East Hub,5,1,Unknown,Crypto?,Unknown
+413,48,1207,6,2,82,2,Late Night,??,7,8,Unknown,COD,Delivered
+414,32,761,12,9,128,2,Evening,Central Hub,,1,Yes,,Unknown
+415,34,72,,14,137,2,Morning,East Hub,5,8,,Card,Delivered
+416,33,864,18,9,72,,Morning,East Hub,10,10,No,Card,Unknown
+417,50,395,14,0,45,1,Afternoon,West Hub,3,-2,,COD,Delivered
+418,57,351,2,50,105,0,,South Hub,,3,No,UPI,Delivered
+419,10,412,9,0,31,,??,Central Hub,5,4,No,UPI,Cancelled
+420,39,445,5,12,5,2,,South Hub,10,4,Yes,Card,Cancelled
+421,45,267,,3,144,,,,4,-2,,,Delivered
+422,41,190,1,11,73,2,Afternoon,East Hub,10,8,No,COD,Delivered
+423,28,1689,3,14,113,0,,,2,3,Unknown,UPI,Delivered
+424,33,1007,6,-3,26,0,Evening,North Hub,-1,5,No,UPI,Delivered
+425,53,1283,5,5,53,1,Afternoon,East Hub,-1,8,Unknown,Unknown,Cancelled
+426,50,1034,-5,0,84,2,Evening,South Hub,,10,Unknown,Card,Unknown
+427,57,1042,5,5,126,1,Afternoon,East Hub,4,1,,,Delivered
+428,35,1696,1,3,110,1,,North Hub,4,2,Unknown,COD,Cancelled
+429,39,1689,17,12,14,0,Evening,West Hub,,8,No,UPI,Delivered
+430,37,877,19,1,131,,Evening,,5,2,Unknown,Unknown,Delivered
+431,56,732,14,9,92,,Evening,Unknown,,8,,Card,Unknown
+432,25,1533,12,9,122,1,Afternoon,,7,-2,Yes,Card,Delivered
+433,36,1053,10,4,72,0,Late Night,South Hub,7,2,No,COD,Delivered
+434,27,405,,3,146,2,,East Hub,-1,8,No,UPI,Unknown
+435,37,1057,-5,50,91,,Evening,South Hub,10,4,,COD,Unknown
+436,7,1397,18,2,16,1,??,West Hub,,2,,COD,Unknown
+437,22,1206,11,1,42,,Late Night,East Hub,,8,,Crypto?,Unknown
+438,29,937,2,8,120,,??,Unknown,5,5,,Unknown,Cancelled
+439,46,1878,18,13,40,2,,East Hub,1,1,No,Card,Cancelled
+440,35,1913,7,,38,0,,Unknown,-1,5,Yes,Crypto?,Cancelled
+441,58,176,15,8,112,2,Evening,South Hub,-1,3,Unknown,,Delivered
+442,-10,1179,11,12,,0,Evening,South Hub,-1,8,Unknown,Card,Unknown
+443,7,1058,18,12,110,,Afternoon,North Hub,10,,Yes,Card,Unknown
+444,44,653,12,14,46,1,Late Night,??,3,10,Yes,Unknown,Cancelled
+445,50,1872,6,,62,2,Late Night,??,1,5,Yes,,Delivered
+446,28,1451,,,109,0,Evening,West Hub,10,2,,UPI,Delivered
+447,54,1978,13,9,68,,,??,7,-2,No,,Delivered
+448,36,1063,,8,42,0,Evening,North Hub,5,10,No,UPI,Cancelled
+449,51,100,16,6,33,0,,,7,,No,,Delivered
+450,26,1102,18,4,39,0,,Unknown,4,8,,COD,Delivered
+451,27,1535,10,7,60,,Evening,East Hub,-1,-2,No,,Delivered
+452,6,1369,8,4,61,1,Morning,South Hub,2,8,,Crypto?,Unknown
+453,31,1370,18,12,57,1,Late Night,East Hub,-1,3,No,Crypto?,Cancelled
+454,46,1799,-5,13,74,1,??,East Hub,-1,,Yes,Unknown,Unknown
+455,6,828,1,3,15,0,,Central Hub,5,8,Unknown,UPI,Unknown
+456,30,1480,8,12,81,,,,1,2,Unknown,Card,Cancelled
+457,21,1842,6,2,93,0,Morning,Central Hub,7,3,,Unknown,Unknown
+458,44,863,5,2,47,1,??,??,4,4,No,Crypto?,Delivered
+459,37,1686,15,9,137,1,Afternoon,East Hub,-1,,Unknown,Crypto?,Delivered
+460,13,1478,15,1,81,,Morning,Unknown,,1,Yes,UPI,Delivered
+461,47,1419,2,8,37,0,??,South Hub,3,-2,Yes,Crypto?,Delivered
+462,58,1695,1,6,126,2,Morning,Unknown,,5,Yes,Crypto?,Cancelled
+463,52,469,11,6,18,2,,East Hub,,8,,UPI,Unknown
+464,43,1255,10,-3,62,1,Late Night,,5,-2,,Crypto?,Unknown
+465,33,1032,18,50,76,,Morning,Unknown,2,-2,No,Card,Delivered
+466,46,874,18,12,130,0,Afternoon,Central Hub,2,1,Yes,COD,Delivered
+467,59,1074,17,6,101,0,Evening,South Hub,7,1,No,Unknown,Unknown
+468,30,1904,8,8,64,1,??,East Hub,2,3,No,Card,Cancelled
+469,39,616,15,10,119,1,Morning,West Hub,,,Yes,Card,Unknown
+470,54,420,8,1,90,0,Morning,,5,2,No,COD,Delivered
+471,29,985,17,13,7,0,Afternoon,,4,1,Unknown,Unknown,Delivered
+472,28,1984,12,50,72,1,Late Night,West Hub,7,1,,Card,Cancelled
+473,17,710,8,3,133,0,Morning,Unknown,10,5,No,Crypto?,Unknown
+474,-10,1504,14,8,106,2,Morning,East Hub,4,4,Yes,COD,Cancelled
+475,11,1018,4,14,88,1,Late Night,,1,1,,Unknown,Cancelled
+476,120,1382,1,3,38,0,Afternoon,South Hub,1,4,,,Delivered
+477,40,1210,1,0,112,1,??,East Hub,1,3,No,UPI,Unknown
+478,49,251,19,13,27,,??,East Hub,1,2,Unknown,Crypto?,Delivered
+479,24,1509,16,50,96,1,Morning,Central Hub,5,-2,No,COD,Unknown
+480,5,362,14,13,36,1,Late Night,,4,1,Unknown,UPI,Delivered
+481,12,166,-5,6,136,,Morning,,-1,8,,,Delivered
+482,50,1739,16,50,81,2,Evening,West Hub,3,4,No,Card,Unknown
+483,20,986,5,14,55,0,??,Central Hub,7,5,Yes,Card,Unknown
+484,18,1876,9,50,84,,,Unknown,10,5,No,Unknown,Delivered
+485,16,624,2,8,1,1,Evening,??,,1,Unknown,COD,Unknown
+486,55,293,18,11,57,0,Morning,Unknown,1,,Unknown,COD,Delivered
+487,27,586,6,1,106,,Afternoon,Unknown,10,-2,No,Unknown,Unknown
+488,19,1675,9,7,122,0,??,Central Hub,3,2,Unknown,UPI,Delivered
+489,32,124,1,50,113,0,,,10,8,,Card,Delivered
+490,38,1879,9,10,106,,Evening,East Hub,4,,No,Card,Delivered
+491,6,435,16,11,36,0,??,Central Hub,10,5,Unknown,COD,Cancelled
+492,36,1976,13,9,78,2,Late Night,West Hub,1,4,No,COD,Unknown
+493,27,1283,9,9,91,,Afternoon,Central Hub,3,4,No,Unknown,Delivered
+494,26,524,-5,5,17,2,Evening,West Hub,,,Yes,,Cancelled
+495,55,467,13,50,97,1,Late Night,Unknown,-1,4,No,UPI,Delivered
+496,29,396,9,9,62,0,Morning,??,2,5,Yes,Crypto?,Cancelled
+497,-10,1602,11,50,149,1,Late Night,Central Hub,1,,Unknown,,Delivered
+498,26,689,4,7,138,1,Evening,West Hub,3,5,Yes,,Delivered
+499,-10,988,2,9,3,0,Evening,Central Hub,4,8,Yes,COD,Cancelled
+500,-10,1004,6,7,134,,Morning,??,5,-2,Yes,COD,Cancelled
+501,26,925,14,13,60,0,Late Night,Unknown,3,8,,COD,Unknown
+502,53,812,4,11,106,1,Late Night,Central Hub,2,8,Yes,,Unknown
+503,56,1252,6,14,53,1,Morning,South Hub,2,4,No,UPI,Cancelled
+504,46,1255,19,11,87,,Late Night,West Hub,7,1,Yes,COD,Unknown
+505,10,713,6,13,67,0,??,??,-1,10,No,Card,Cancelled
+506,19,74,2,14,128,1,Morning,West Hub,2,4,Yes,UPI,Unknown
+507,58,1253,18,13,54,2,Afternoon,West Hub,7,1,,Card,Delivered
+508,47,759,13,1,2,1,Evening,North Hub,7,5,Unknown,UPI,Unknown
+509,41,1574,9,8,120,1,Afternoon,??,7,10,Yes,COD,Delivered
+510,37,1929,19,12,128,,??,Central Hub,3,4,Yes,Crypto?,Delivered
+511,12,1234,13,12,101,2,??,West Hub,7,10,,Unknown,Unknown
+512,57,226,11,8,37,1,,,1,10,Yes,COD,Cancelled
+513,48,334,1,8,84,1,,North Hub,1,3,No,,Delivered
+514,48,112,7,13,132,2,,South Hub,5,-2,Yes,Crypto?,Delivered
+515,9,1052,-5,12,91,0,Morning,West Hub,2,3,Yes,,Unknown
+516,43,711,15,0,20,0,Late Night,Unknown,-1,1,Unknown,UPI,Cancelled
+517,8,715,1,1,108,1,??,West Hub,7,2,Unknown,,Cancelled
+518,10,205,12,13,46,1,Afternoon,North Hub,4,,Yes,Crypto?,Unknown
+519,49,1955,7,7,83,0,Afternoon,Central Hub,4,2,,Crypto?,Cancelled
+520,36,1542,15,5,82,,Afternoon,,2,,Unknown,COD,Unknown
+521,56,1122,-5,8,34,2,Afternoon,Unknown,5,1,Yes,Card,Unknown
+522,34,1016,19,14,68,2,,South Hub,4,1,Unknown,COD,Unknown
+523,51,898,1,13,128,,Afternoon,Unknown,1,5,Yes,UPI,Delivered
+524,39,1157,17,,139,,Late Night,West Hub,10,-2,Unknown,,Delivered
+525,59,1434,17,50,26,,,Central Hub,3,10,Unknown,Card,Delivered
+526,44,738,3,,55,,Afternoon,??,,3,No,Unknown,Unknown
+527,56,197,12,-3,22,,Morning,,4,3,Yes,Crypto?,Delivered
+528,20,1703,6,-3,20,,Evening,??,-1,1,Yes,Card,Delivered
+529,17,391,11,2,60,2,Evening,,7,3,Yes,Card,Delivered
+530,54,525,3,4,62,,Evening,South Hub,-1,1,Yes,COD,Unknown
+531,46,1136,8,1,121,0,,East Hub,3,10,Unknown,Unknown,Unknown
+532,34,1774,14,4,51,,Afternoon,,1,1,No,Crypto?,Unknown
+533,23,1433,14,-3,87,,??,East Hub,5,5,No,UPI,Delivered
+534,21,610,10,5,54,2,??,??,3,-2,,UPI,Cancelled
+535,,376,2,,45,2,??,,,8,Yes,Card,Delivered
+536,23,1842,14,8,31,,,South Hub,10,4,,Card,Delivered
+537,32,1809,9,50,54,2,Late Night,North Hub,4,-2,Unknown,,Unknown
+538,-10,1214,3,1,95,1,Morning,South Hub,5,-2,,Unknown,Unknown
+539,59,1039,-5,12,132,2,Morning,South Hub,5,2,Yes,Crypto?,Delivered
+540,30,264,8,,35,2,Evening,North Hub,4,,No,Card,Delivered
+541,41,484,16,9,109,2,Evening,North Hub,4,4,No,,Cancelled
+542,30,1964,2,7,105,2,??,Central Hub,4,10,Yes,Unknown,Cancelled
+543,57,1001,6,2,57,0,??,,4,8,Unknown,Crypto?,Unknown
+544,27,772,-5,9,38,0,Evening,??,4,8,Yes,UPI,Cancelled
+545,13,1391,12,10,79,0,Afternoon,Central Hub,5,-2,Unknown,,Cancelled
+546,16,81,5,2,96,,Late Night,North Hub,2,5,No,Unknown,Unknown
+547,57,719,2,11,112,,Late Night,East Hub,2,,Unknown,,Cancelled
+548,5,334,16,13,60,1,Late Night,??,-1,1,Yes,Card,Delivered
+549,-10,1378,5,10,136,0,Late Night,East Hub,2,,Yes,COD,Cancelled
+550,-10,478,15,14,5,,Evening,South Hub,,2,Yes,UPI,Unknown
+551,5,1550,12,-3,108,2,Morning,West Hub,2,,Unknown,Card,Delivered
+552,51,335,4,9,34,2,Evening,South Hub,5,-2,Unknown,Card,Cancelled
+553,38,1217,15,7,38,0,Late Night,South Hub,4,10,Unknown,Unknown,Delivered
+554,36,1497,11,3,149,1,Evening,West Hub,7,-2,No,,Delivered
+555,58,1092,16,6,117,1,Late Night,,7,10,,UPI,Cancelled
+556,52,67,6,2,4,2,,North Hub,,3,,Card,Cancelled
+557,29,818,14,6,86,1,??,East Hub,5,10,Yes,Unknown,Unknown
+558,44,639,18,3,75,0,Morning,South Hub,1,,No,UPI,Unknown
+559,49,1444,12,0,56,2,,West Hub,3,,Unknown,,Delivered
+560,57,1248,11,8,126,,Afternoon,Central Hub,-1,,Yes,Card,Unknown
+561,5,1059,13,2,28,,Evening,South Hub,1,3,No,Crypto?,Delivered
+562,20,243,-5,50,86,1,Afternoon,East Hub,5,1,Yes,Card,Delivered
+563,43,551,11,9,140,2,Evening,North Hub,2,4,No,Card,Unknown
+564,9,1037,16,12,45,2,??,South Hub,4,,No,UPI,Unknown
+565,26,1186,15,3,115,,,South Hub,1,2,,UPI,Unknown
+566,33,163,-5,11,111,2,??,,3,8,Yes,UPI,Cancelled
+567,59,1295,15,1,,2,Late Night,Unknown,7,8,Unknown,UPI,Delivered
+568,7,1751,4,13,44,2,??,West Hub,3,4,,Unknown,Delivered
+569,16,996,11,,144,1,??,Central Hub,4,4,,COD,Delivered
+570,30,880,19,5,103,2,Late Night,Central Hub,2,1,Unknown,Unknown,Unknown
+571,20,1717,15,50,84,0,Evening,??,3,2,No,Card,Unknown
+572,55,1970,4,6,133,1,Late Night,North Hub,-1,-2,Unknown,Unknown,Unknown
+573,41,1337,-5,11,107,2,,??,3,10,Yes,,Unknown
+574,26,974,13,-3,17,2,??,East Hub,5,10,Unknown,Crypto?,Unknown
+575,120,104,19,4,93,0,Late Night,North Hub,2,-2,No,UPI,Cancelled
+576,33,1944,2,3,149,1,??,South Hub,4,8,Unknown,,Unknown
+577,18,1716,14,13,32,,,Unknown,7,-2,No,Crypto?,Delivered
+578,32,849,4,9,125,,Afternoon,South Hub,7,2,No,,Unknown
+579,9,827,16,6,121,1,,Central Hub,3,,Yes,Card,Delivered
+580,51,1531,-5,12,137,2,Morning,East Hub,5,3,Unknown,UPI,Unknown
+581,53,1951,,2,114,2,Morning,West Hub,1,,Unknown,,Unknown
+582,34,211,14,3,27,,Morning,East Hub,1,3,Yes,Card,Delivered
+583,50,1453,15,3,10,,??,South Hub,5,10,No,UPI,Delivered
+584,56,136,3,12,46,,Evening,West Hub,-1,4,Unknown,COD,Delivered
+585,9,104,8,,126,0,Evening,East Hub,1,,Yes,Card,Delivered
+586,16,1549,16,9,146,,Evening,Unknown,1,-2,No,Unknown,Cancelled
+587,20,1873,10,8,117,0,??,Unknown,4,2,Yes,UPI,Delivered
+588,30,1251,4,11,142,1,,East Hub,4,2,Unknown,,Unknown
+589,30,1464,18,0,125,2,Evening,West Hub,2,8,Yes,Crypto?,Unknown
+590,52,1422,2,4,-20,,Afternoon,South Hub,-1,2,,,Cancelled
+591,25,1081,17,1,71,2,Morning,East Hub,-1,2,No,Unknown,Delivered
+592,43,882,13,7,106,2,,West Hub,2,4,,Unknown,Unknown
+593,40,362,4,2,136,,Morning,,-1,-2,,,Cancelled
+594,37,808,11,5,32,,Evening,Unknown,,10,No,Crypto?,Unknown
+595,34,1908,7,7,18,1,,,10,2,No,UPI,Cancelled
+596,41,492,12,4,73,0,Late Night,South Hub,4,10,Yes,Card,Cancelled
+597,27,1840,10,5,97,0,Afternoon,West Hub,2,4,No,Unknown,Delivered
+598,-10,377,7,1,140,2,Evening,,2,2,,Unknown,Cancelled
+599,14,1127,13,1,128,,Evening,West Hub,-1,8,,Unknown,Unknown
+600,58,810,7,,92,1,Afternoon,East Hub,1,,Unknown,Crypto?,Unknown
+601,9,1312,17,10,47,1,Afternoon,South Hub,7,5,No,COD,Delivered
+602,40,1302,10,-3,63,1,Late Night,,3,1,,Crypto?,Delivered
+603,38,628,10,3,60,1,Evening,??,3,2,Unknown,UPI,Cancelled
+604,56,1124,4,11,38,1,??,East Hub,2,10,Unknown,UPI,Delivered
+605,35,1682,,,127,0,Evening,Unknown,,1,Yes,UPI,Unknown
+606,14,1677,4,11,87,0,Morning,??,2,3,,UPI,Unknown
+607,-10,1056,7,50,25,0,,??,4,2,Yes,UPI,Delivered
+608,23,1337,1,50,16,,,North Hub,-1,5,,,Delivered
+609,-10,1491,12,6,70,2,Morning,North Hub,-1,4,Yes,Unknown,Delivered
+610,36,1876,13,5,12,1,,South Hub,,8,Yes,Crypto?,Cancelled
+611,5,145,10,8,68,,Afternoon,,4,5,No,,Cancelled
+612,,1161,15,2,25,1,,,7,10,Yes,Crypto?,Unknown
+613,9,1151,13,0,48,0,,,1,4,No,COD,Cancelled
+614,49,1361,-5,12,6,,Morning,West Hub,4,,Unknown,Card,Cancelled
+615,8,1193,9,6,57,0,Late Night,East Hub,5,4,,Unknown,Cancelled
+616,20,863,9,1,48,1,,,10,2,Unknown,COD,Cancelled
+617,28,540,15,4,102,1,??,East Hub,2,1,,,Unknown
+618,20,1985,10,50,52,2,,South Hub,5,1,Unknown,Card,Delivered
+619,59,501,10,13,61,1,Late Night,??,,10,,COD,Unknown
+620,6,1573,8,-3,16,0,Morning,,5,4,Yes,Crypto?,Cancelled
+621,53,214,16,5,24,1,Late Night,South Hub,-1,5,,Card,Delivered
+622,32,231,17,3,130,2,Morning,,1,10,,Crypto?,Delivered
+623,36,518,5,11,28,2,Afternoon,North Hub,3,8,Unknown,COD,Delivered
+624,31,959,4,13,116,0,Morning,Central Hub,2,10,Unknown,,Unknown
+625,24,784,18,4,25,,Afternoon,South Hub,3,10,Unknown,Crypto?,Delivered
+626,28,872,19,14,123,1,Afternoon,,-1,,No,Card,Unknown
+627,16,993,4,11,143,2,Morning,Unknown,-1,2,No,COD,Unknown
+628,54,56,7,10,24,1,??,Central Hub,2,,,Crypto?,Cancelled
+629,39,379,10,-3,53,1,Evening,South Hub,3,1,,,Cancelled
+630,37,824,18,6,72,,Morning,Unknown,4,1,Yes,Unknown,Delivered
+631,37,1746,19,,119,2,,Unknown,-1,3,Yes,,Delivered
+632,55,200,4,10,55,1,??,West Hub,3,3,,,Cancelled
+633,47,1158,10,5,64,2,??,Unknown,7,5,No,Unknown,Unknown
+634,41,196,1,5,92,0,,,3,1,,,Unknown
+635,16,1697,18,10,85,0,Evening,West Hub,7,,Yes,Unknown,Cancelled
+636,7,1454,5,5,79,1,??,North Hub,7,8,No,Unknown,Unknown
+637,5,964,15,3,107,2,Afternoon,,-1,3,No,Crypto?,Cancelled
+638,37,1621,17,6,117,1,Evening,??,2,4,Yes,Crypto?,Cancelled
+639,44,1358,3,4,82,2,,Unknown,,3,,Unknown,Delivered
+640,14,749,12,-3,146,2,Evening,North Hub,-1,1,Unknown,COD,Delivered
+641,47,131,2,9,14,,Morning,Central Hub,2,10,,Card,Cancelled
+642,48,563,1,50,130,,Evening,South Hub,2,2,,COD,Delivered
+643,33,1970,-5,13,138,,Afternoon,Unknown,5,1,Yes,Unknown,Cancelled
+644,17,864,17,,29,1,Morning,East Hub,10,10,No,Card,Unknown
+645,16,758,16,50,56,,Late Night,North Hub,-1,8,Yes,Crypto?,Unknown
+646,35,1989,5,13,145,,,East Hub,2,8,,Card,Unknown
+647,50,1596,15,0,127,0,,Unknown,5,4,Unknown,Unknown,Unknown
+648,6,795,3,4,47,2,Evening,East Hub,7,-2,Unknown,Crypto?,Cancelled
+649,55,1072,7,5,135,2,??,Unknown,,,Unknown,Card,Unknown
+650,54,1459,11,5,21,,Morning,South Hub,,2,Yes,Card,Unknown
+651,39,756,10,9,5,2,Late Night,Central Hub,7,1,No,COD,Unknown
+652,27,520,9,50,103,0,Morning,South Hub,3,1,Yes,Card,Unknown
+653,21,1192,14,13,35,0,,,3,-2,Unknown,Unknown,Cancelled
+654,30,445,13,2,78,,Morning,North Hub,-1,4,,UPI,Unknown
+655,12,1605,2,13,115,0,Late Night,East Hub,10,5,No,UPI,Delivered
+656,33,310,3,3,56,2,??,South Hub,5,3,Yes,UPI,Delivered
+657,30,854,7,10,48,1,Evening,Unknown,,4,Yes,Unknown,Delivered
+658,14,983,-5,2,81,2,Afternoon,South Hub,1,10,No,UPI,Delivered
+659,30,1329,18,13,65,1,Morning,South Hub,1,4,No,COD,Delivered
+660,38,1807,3,50,76,,Afternoon,North Hub,4,-2,,Unknown,Delivered
+661,55,954,10,14,44,1,,Central Hub,2,-2,No,Crypto?,Cancelled
+662,45,1299,7,12,78,0,Evening,??,7,,,Unknown,Delivered
+663,11,1126,9,12,19,2,Evening,South Hub,2,2,Unknown,Unknown,Unknown
+664,8,989,17,11,122,1,Morning,North Hub,2,8,Unknown,Card,Delivered
+665,-10,1940,11,7,66,2,??,East Hub,5,-2,Yes,Card,Cancelled
+666,57,1573,7,4,82,,Evening,Unknown,4,,Unknown,Card,Delivered
+667,54,1579,14,1,2,,Morning,,10,3,Unknown,,Unknown
+668,49,903,19,3,63,0,Morning,??,4,8,,COD,Unknown
+669,15,1437,4,13,39,,Afternoon,West Hub,,5,Yes,Unknown,Cancelled
+670,33,1353,6,,58,1,Evening,??,5,1,No,Unknown,Cancelled
+671,,642,10,2,61,,Morning,Unknown,2,3,Yes,Card,Cancelled
+672,40,763,7,11,131,0,Afternoon,??,10,5,Unknown,Unknown,Cancelled
+673,29,1231,13,4,59,2,Late Night,Unknown,2,8,No,Crypto?,Delivered
+674,25,681,14,50,115,2,Afternoon,North Hub,-1,3,Yes,Unknown,Delivered
+675,120,108,4,3,74,,Afternoon,West Hub,-1,,Yes,UPI,Unknown
+676,40,1800,8,-3,121,1,Morning,South Hub,3,5,Yes,Crypto?,Cancelled
+677,14,177,5,8,106,0,,South Hub,4,1,Yes,Crypto?,Cancelled
+678,41,785,1,5,95,1,,??,10,,,Unknown,Delivered
+679,13,770,4,7,90,0,??,North Hub,-1,10,Yes,,Cancelled
+680,28,1955,3,8,129,,,West Hub,3,1,Unknown,Card,Unknown
+681,39,1188,9,5,61,0,Afternoon,South Hub,5,2,Unknown,COD,Unknown
+682,53,1282,8,50,48,0,??,East Hub,10,4,,COD,Cancelled
+683,39,575,1,5,136,,Morning,Central Hub,3,2,No,UPI,Unknown
+684,52,570,6,4,91,1,Evening,Central Hub,7,-2,No,COD,Unknown
+685,40,601,9,2,123,,Afternoon,South Hub,10,10,Unknown,COD,Delivered
+686,22,286,7,11,60,0,Afternoon,West Hub,3,10,Unknown,Card,Unknown
+687,53,1354,4,13,47,,??,,2,4,,Card,Cancelled
+688,43,1432,13,,135,0,Morning,South Hub,7,5,No,,Cancelled
+689,36,1274,17,12,57,,Late Night,,-1,4,No,UPI,Unknown
+690,28,1831,2,11,100,2,Afternoon,,1,-2,Yes,COD,Cancelled
+691,27,1351,5,7,111,2,Late Night,Unknown,3,2,Yes,,Delivered
+692,36,1308,12,5,61,,Late Night,Unknown,5,10,Yes,UPI,Unknown
+693,41,543,-5,50,38,1,,West Hub,3,2,,Crypto?,Unknown
+694,16,53,8,9,57,0,Morning,,1,1,Unknown,COD,Unknown
+695,53,715,6,14,98,2,Late Night,East Hub,7,3,,COD,Cancelled
+696,59,491,8,12,43,1,Morning,West Hub,7,-2,No,Card,Cancelled
+697,17,78,18,6,28,0,,South Hub,10,3,Unknown,Unknown,Unknown
+698,27,1182,3,50,58,2,Morning,??,5,-2,Yes,UPI,Cancelled
+699,29,659,12,0,70,2,Afternoon,East Hub,5,8,,COD,Cancelled
+700,39,1800,3,12,91,,Late Night,North Hub,5,1,,UPI,Unknown
+701,45,854,6,12,8,0,Morning,Central Hub,1,5,Yes,,Unknown
+702,34,124,2,6,126,1,Evening,South Hub,5,-2,,,Cancelled
+703,21,887,12,4,133,1,Morning,South Hub,,3,Yes,Unknown,Unknown
+704,53,1219,2,6,144,1,Late Night,South Hub,1,-2,No,COD,Unknown
+705,24,177,6,11,143,0,,East Hub,7,5,Unknown,Card,Unknown
+706,52,1926,17,1,130,1,,North Hub,1,-2,No,COD,Unknown
+707,29,91,3,,20,1,Late Night,??,2,,No,UPI,Cancelled
+708,26,1429,2,11,63,1,Afternoon,West Hub,2,-2,Yes,Crypto?,Unknown
+709,17,90,,-3,89,,Afternoon,Unknown,5,8,,,Delivered
+710,23,983,8,50,35,,,North Hub,7,8,No,UPI,Unknown
+711,53,83,12,14,61,0,,East Hub,1,10,No,Unknown,Delivered
+712,40,1090,4,-3,75,0,Late Night,South Hub,1,8,No,,Unknown
+713,16,1750,5,,12,1,Afternoon,Central Hub,1,-2,,Card,Delivered
+714,45,1226,13,,10,,,South Hub,,-2,,,Delivered
+715,23,1047,15,4,53,2,Afternoon,West Hub,2,,Yes,Crypto?,Unknown
+716,16,1451,16,7,15,2,,,1,8,No,COD,Unknown
+717,13,637,10,13,7,1,Morning,Central Hub,,2,Unknown,Crypto?,Unknown
+718,11,1672,16,3,103,1,Evening,South Hub,2,-2,,Crypto?,Delivered
+719,32,1702,12,0,58,,??,??,,1,Yes,COD,Cancelled
+720,18,1947,17,9,56,,Morning,Central Hub,10,1,No,,Cancelled
+721,35,391,16,8,39,,??,,2,3,Unknown,Unknown,Unknown
+722,56,76,12,13,129,0,,Unknown,-1,,,COD,Cancelled
+723,23,1898,8,50,93,0,Evening,North Hub,10,5,Unknown,COD,Cancelled
+724,-10,1360,,50,137,1,Evening,East Hub,1,2,,Card,Unknown
+725,51,695,3,50,43,0,,Unknown,7,-2,Yes,,Delivered
+726,20,780,16,1,138,,,South Hub,,4,Unknown,COD,Unknown
+727,57,217,13,8,79,,Afternoon,West Hub,,4,No,Unknown,Cancelled
+728,9,659,19,6,80,0,,North Hub,,5,No,UPI,Delivered
+729,39,317,8,3,1,2,Late Night,Unknown,,10,,,Cancelled
+730,16,1822,5,5,139,1,,South Hub,7,4,No,Card,Delivered
+731,29,870,,13,114,2,Late Night,North Hub,3,5,Unknown,Crypto?,Cancelled
+732,56,504,8,,89,1,,Unknown,,4,Yes,COD,Unknown
+733,25,955,12,14,22,2,Afternoon,West Hub,3,,,Unknown,Cancelled
+734,40,1758,1,0,145,0,Late Night,South Hub,7,3,Unknown,,Cancelled
+735,57,1474,-5,-3,61,1,Morning,,7,10,,Unknown,Delivered
+736,27,971,,11,112,1,Late Night,,10,,Yes,Unknown,Cancelled
+737,20,1030,6,3,127,1,Afternoon,West Hub,2,5,,Crypto?,Unknown
+738,120,1549,18,10,61,,??,Central Hub,-1,2,No,Card,Unknown
+739,43,751,8,10,37,,Late Night,West Hub,5,8,No,,Unknown
+740,49,683,7,0,60,2,,Central Hub,-1,2,,COD,Delivered
+741,57,1631,1,12,128,0,,South Hub,5,1,Yes,Card,Delivered
+742,46,1649,-5,2,148,,??,Unknown,7,8,Yes,COD,Cancelled
+743,-10,179,16,9,121,1,Afternoon,Central Hub,-1,5,No,UPI,Cancelled
+744,43,1069,12,3,109,,Evening,South Hub,4,1,Yes,Unknown,Cancelled
+745,18,1895,6,,12,0,,South Hub,2,4,,UPI,Delivered
+746,35,1436,,3,99,,Morning,??,-1,4,Unknown,Unknown,Delivered
+747,-10,1778,2,-3,134,1,Afternoon,East Hub,2,8,,Crypto?,Cancelled
+748,9,868,14,8,21,2,Late Night,South Hub,3,-2,No,Card,Delivered
+749,39,742,4,50,73,1,Late Night,Central Hub,2,2,No,COD,Delivered
+750,27,1365,1,8,131,0,Morning,East Hub,3,1,No,Crypto?,Unknown
+751,33,1444,18,7,22,2,,East Hub,,2,Yes,COD,Unknown
+752,47,843,13,7,118,,Afternoon,South Hub,3,8,,Card,Cancelled
+753,15,78,2,3,69,,Morning,West Hub,10,,Unknown,,Cancelled
+754,22,198,9,1,83,,,West Hub,,4,,UPI,Unknown
+755,51,1852,-5,4,100,2,Afternoon,,7,1,Unknown,UPI,Delivered
+756,16,1369,2,5,83,1,Late Night,East Hub,1,1,,COD,Cancelled
+757,13,60,9,1,27,2,Afternoon,South Hub,3,5,No,COD,Cancelled
+758,14,1585,1,,135,2,??,??,3,1,Unknown,COD,Cancelled
+759,-10,725,11,5,0,0,Evening,West Hub,2,8,,Card,Delivered
+760,48,1186,3,13,62,2,Afternoon,??,7,1,Yes,,Unknown
+761,21,236,,8,21,,Evening,South Hub,-1,1,Yes,UPI,Cancelled
+762,42,856,4,8,69,1,Afternoon,South Hub,4,2,,Crypto?,Unknown
+763,11,793,18,5,124,1,Evening,Unknown,5,3,No,Unknown,Unknown
+764,50,1300,6,9,148,1,??,East Hub,3,1,Unknown,Card,Delivered
+765,17,1383,3,1,95,,Late Night,Unknown,-1,-2,,UPI,Delivered
+766,44,147,11,4,78,,,??,4,10,Yes,,Delivered
+767,46,104,15,3,4,,Evening,Unknown,5,5,Unknown,Card,Delivered
+768,13,672,5,2,59,,??,,1,2,Yes,Crypto?,Delivered
+769,54,713,,8,119,,Evening,East Hub,2,5,Yes,UPI,Delivered
+770,31,807,10,9,45,2,Late Night,North Hub,-1,,,Card,Cancelled
+771,-10,455,12,2,133,,Evening,Unknown,2,1,Yes,UPI,Unknown
+772,6,118,15,14,55,,??,??,5,4,Unknown,UPI,Delivered
+773,9,1385,17,14,109,,??,West Hub,10,-2,No,,Cancelled
+774,33,1362,10,4,103,,Morning,West Hub,3,2,,Unknown,Unknown
+775,41,1835,6,6,76,1,Late Night,West Hub,,5,Unknown,,Delivered
+776,42,1621,18,11,145,,Morning,Central Hub,4,1,,UPI,Delivered
+777,23,800,13,3,1,2,Late Night,South Hub,7,4,Yes,Card,Cancelled
+778,12,1221,3,8,7,2,Evening,East Hub,3,4,Yes,Crypto?,Unknown
+779,52,1540,10,3,74,2,??,West Hub,,,Unknown,,Delivered
+780,49,1812,14,14,124,0,Morning,North Hub,-1,-2,Unknown,Unknown,Unknown
+781,5,1317,6,13,37,1,Evening,West Hub,1,3,No,UPI,Cancelled
+782,26,1564,3,13,26,,??,,3,-2,Unknown,Crypto?,Delivered
+783,56,1922,16,2,19,0,Late Night,South Hub,2,,Unknown,,Unknown
+784,21,1007,7,13,139,,??,??,10,8,,,Cancelled
+785,11,1580,,6,42,0,Evening,South Hub,7,2,Yes,,Cancelled
+786,29,414,14,0,30,0,Morning,Unknown,2,,Unknown,,Delivered
+787,49,531,9,2,90,2,Morning,??,,,No,Crypto?,Unknown
+788,8,250,15,8,60,2,??,??,3,2,Unknown,Card,Delivered
+789,40,203,-5,50,108,0,Evening,Unknown,10,2,Yes,Unknown,Delivered
+790,10,1523,3,2,90,2,Afternoon,East Hub,3,2,Unknown,Unknown,Unknown
+791,35,1574,2,10,94,0,Late Night,Unknown,-1,1,,UPI,Unknown
+792,23,122,2,0,142,1,Late Night,Central Hub,1,5,Yes,COD,Unknown
+793,48,762,3,6,143,2,Evening,??,5,10,Unknown,Card,Cancelled
+794,58,345,18,2,12,2,Afternoon,??,3,2,,UPI,Cancelled
+795,43,1090,14,2,112,2,Morning,Unknown,,5,Yes,UPI,Unknown
+796,31,1714,,13,34,1,,East Hub,2,10,Unknown,,Cancelled
+797,14,1290,18,,148,0,,West Hub,-1,5,,COD,Delivered
+798,30,110,10,2,47,,Evening,,,2,No,COD,Unknown
+799,23,988,2,7,34,2,Afternoon,North Hub,7,3,,Card,Delivered
+800,43,1689,1,3,85,0,Afternoon,East Hub,5,,No,COD,Unknown
+801,7,91,4,8,-20,1,Late Night,Central Hub,-1,5,Unknown,UPI,Delivered
+802,49,74,14,14,113,,Morning,East Hub,1,4,,COD,Unknown
+803,17,1112,1,7,99,2,??,South Hub,5,4,No,COD,Delivered
+804,54,1876,14,7,98,1,Afternoon,West Hub,,5,Yes,Unknown,Unknown
+805,32,180,16,1,2,1,??,West Hub,7,2,,UPI,Unknown
+806,-10,1571,14,50,84,,,??,4,-2,Unknown,Crypto?,Cancelled
+807,24,1302,,9,124,0,??,West Hub,1,2,Yes,COD,Delivered
+808,32,157,3,13,137,2,Morning,West Hub,10,2,No,COD,Cancelled
+809,12,221,3,50,82,2,Morning,Unknown,4,-2,,,Delivered
+810,45,1508,9,10,24,0,??,West Hub,3,3,,COD,Cancelled
+811,43,1551,6,10,67,0,Evening,West Hub,7,8,Unknown,COD,Unknown
+812,5,151,13,4,60,0,Afternoon,North Hub,2,4,Yes,Unknown,Cancelled
+813,7,915,-5,8,28,,Evening,Central Hub,10,,,UPI,Cancelled
+814,17,573,2,-3,126,,??,??,,4,,Card,Unknown
+815,32,324,8,14,18,2,Afternoon,Unknown,7,8,Yes,UPI,Cancelled
+816,120,1686,-5,-3,73,,Late Night,West Hub,5,1,,,Unknown
+817,53,1117,2,14,60,1,Evening,??,-1,3,Yes,UPI,Delivered
+818,29,866,4,,19,2,Evening,Central Hub,5,3,Yes,COD,Cancelled
+819,,1006,15,4,47,,??,Unknown,5,1,Yes,,Unknown
+820,37,1090,4,13,86,0,,,3,,Unknown,UPI,Unknown
+821,42,379,13,8,-20,1,??,West Hub,1,-2,Yes,,Cancelled
+822,57,1642,12,-3,138,0,Evening,??,2,10,Yes,Card,Delivered
+823,10,1896,13,12,109,2,Afternoon,East Hub,10,8,No,UPI,Cancelled
+824,-10,1570,14,14,27,0,,Unknown,1,10,No,Crypto?,Unknown
+825,48,1888,,2,58,,??,Unknown,7,,Unknown,COD,Delivered
+826,49,61,18,-3,132,,??,??,5,-2,Yes,,Cancelled
+827,36,1391,6,2,50,2,Evening,West Hub,3,3,No,Crypto?,Unknown
+828,49,1665,11,11,148,0,Evening,South Hub,7,-2,No,Crypto?,Cancelled
+829,51,265,2,9,11,2,Late Night,North Hub,-1,4,,Unknown,Delivered
+830,25,388,19,12,49,0,??,East Hub,2,8,Yes,,Delivered
+831,20,1849,19,50,131,1,Evening,East Hub,10,-2,No,Crypto?,Delivered
+832,58,710,5,,112,,Morning,South Hub,-1,2,Unknown,Unknown,Delivered
+833,25,1154,19,50,13,2,,West Hub,3,2,,Crypto?,Delivered
+834,15,1800,2,-3,31,1,Morning,Unknown,2,-2,,COD,Cancelled
+835,41,1558,10,6,138,1,,Unknown,7,3,Yes,Card,Delivered
+836,40,423,2,50,145,2,??,North Hub,5,-2,Yes,Unknown,Delivered
+837,39,1025,11,-3,54,2,Late Night,East Hub,5,5,,Card,Unknown
+838,23,759,18,8,119,1,Evening,North Hub,5,,Unknown,,Delivered
+839,24,1273,15,9,74,0,Evening,East Hub,4,2,Yes,COD,Unknown
+840,120,1610,9,6,20,1,Evening,West Hub,5,10,Yes,Unknown,Unknown
+841,22,515,19,5,132,2,??,,4,-2,,,Unknown
+842,51,1162,9,12,86,1,,East Hub,,2,,Crypto?,Cancelled
+843,45,1341,3,11,58,0,Evening,,4,,Yes,UPI,Cancelled
+844,53,1728,-5,1,88,,Morning,East Hub,2,,No,,Unknown
+845,18,1644,9,11,149,,Evening,Unknown,-1,10,Yes,Card,Cancelled
+846,19,1995,14,9,82,1,??,Central Hub,2,5,No,COD,Delivered
+847,35,538,19,2,64,0,Late Night,West Hub,-1,-2,,COD,Cancelled
+848,5,1950,7,12,63,,Morning,South Hub,,1,No,,Delivered
+849,57,1611,16,4,70,1,Evening,,-1,-2,Unknown,Crypto?,Delivered
+850,58,96,16,4,3,1,Evening,South Hub,-1,8,,UPI,Cancelled
+851,58,1361,1,-3,142,0,Afternoon,West Hub,3,4,Yes,Card,Cancelled
+852,7,827,4,,103,2,,??,1,3,Yes,,Unknown
+853,20,1089,4,13,149,1,Morning,South Hub,1,,,,Cancelled
+854,27,760,7,50,92,2,Afternoon,West Hub,3,1,,COD,Cancelled
+855,120,450,8,6,141,2,Late Night,Unknown,5,3,Unknown,Card,Cancelled
+856,15,1992,17,0,147,,,South Hub,3,2,,UPI,Delivered
+857,16,1867,5,12,111,2,Morning,,-1,-2,Yes,COD,Delivered
+858,14,1030,7,5,118,0,Evening,Central Hub,-1,3,Unknown,,Delivered
+859,36,1159,,50,58,,Morning,South Hub,3,2,Yes,COD,Unknown
+860,20,299,,1,42,,Evening,,3,4,No,COD,Unknown
+861,12,440,4,10,11,,,East Hub,5,2,,Unknown,Unknown
+862,42,1855,6,,39,1,Evening,West Hub,2,1,No,COD,Delivered
+863,16,384,7,11,117,1,Late Night,North Hub,,,Yes,Crypto?,Cancelled
+864,28,678,18,13,19,2,??,??,7,10,No,COD,Unknown
+865,32,1592,5,5,130,,Evening,Unknown,-1,2,No,Crypto?,Unknown
+866,57,186,,1,89,,Late Night,North Hub,,-2,Yes,Card,Delivered
+867,12,932,3,12,93,0,??,Unknown,3,3,Yes,COD,Unknown
+868,-10,737,7,11,12,2,,West Hub,5,10,,UPI,Cancelled
+869,32,1913,14,50,65,0,,Unknown,4,10,No,Crypto?,Delivered
+870,40,1571,7,4,36,2,Morning,Central Hub,5,3,Unknown,Crypto?,Delivered
+871,30,876,5,,65,2,Late Night,South Hub,10,3,Unknown,,Cancelled
+872,12,776,5,9,35,1,Late Night,Central Hub,10,,Yes,Card,Cancelled
+873,-10,1550,2,12,25,1,Afternoon,North Hub,,1,Yes,COD,Cancelled
+874,54,643,-5,5,74,0,Afternoon,??,1,4,No,UPI,Unknown
+875,32,1296,6,10,107,2,??,,10,1,Yes,,Cancelled
+876,32,1039,15,50,42,,??,??,10,3,Unknown,Card,Delivered
+877,41,421,-5,5,149,1,Afternoon,West Hub,2,-2,,Crypto?,Cancelled
+878,45,984,10,0,147,,??,West Hub,4,5,,UPI,Delivered
+879,40,1044,7,7,7,0,Evening,Central Hub,2,5,No,COD,Delivered
+880,31,451,5,9,28,1,Afternoon,,4,4,,Unknown,Unknown
+881,58,1516,1,3,39,1,Late Night,Central Hub,7,3,Yes,Unknown,Cancelled
+882,21,1563,13,,127,2,Evening,South Hub,-1,5,Yes,Card,Unknown
+883,13,664,-5,0,83,0,??,East Hub,10,4,Yes,UPI,Cancelled
+884,37,1346,18,-3,115,2,,,-1,10,Yes,,Cancelled
+885,57,1599,13,14,143,1,Morning,East Hub,10,4,No,UPI,Cancelled
+886,24,1232,-5,3,61,0,Afternoon,??,2,10,,Crypto?,Cancelled
+887,17,1225,-5,12,6,1,,South Hub,7,,Unknown,Unknown,Cancelled
+888,32,1044,18,9,44,0,??,Unknown,2,5,,Card,Delivered
+889,52,669,5,7,87,1,Late Night,Unknown,2,4,Yes,COD,Delivered
+890,33,237,13,9,72,,Morning,East Hub,4,4,Unknown,UPI,Cancelled
+891,17,1886,4,13,36,,,North Hub,1,4,No,Unknown,Delivered
+892,50,1171,17,-3,118,2,Morning,??,5,-2,Yes,,Unknown
+893,39,180,3,5,56,,Afternoon,East Hub,,4,Yes,Card,Unknown
+894,10,854,17,13,7,1,??,South Hub,-1,-2,Unknown,COD,Unknown
+895,22,1244,11,4,94,1,Late Night,East Hub,10,,No,UPI,Cancelled
+896,55,985,-5,2,116,,??,West Hub,2,8,Unknown,,Cancelled
+897,9,1035,,0,109,2,Morning,Central Hub,1,3,No,COD,Delivered
+898,51,232,-5,9,19,,,North Hub,2,10,Yes,Crypto?,Delivered
+899,29,1032,4,9,123,0,Afternoon,West Hub,7,3,,Unknown,Delivered
+900,6,413,2,6,52,0,Afternoon,West Hub,4,1,Yes,Crypto?,Unknown
+901,14,88,,11,118,0,??,South Hub,5,5,,Unknown,Unknown
+902,,1600,16,1,11,,,Central Hub,7,2,,,Unknown
+903,34,1961,18,4,16,,,Central Hub,3,,No,Crypto?,Unknown
+904,54,546,8,13,63,,Morning,,2,-2,Unknown,Unknown,Delivered
+905,49,1589,3,13,41,0,??,??,7,1,No,Card,Cancelled
+906,9,1422,9,13,93,2,??,North Hub,5,4,Yes,,Cancelled
+907,59,1031,,2,146,1,Evening,??,1,1,Unknown,Unknown,Unknown
+908,,970,6,9,10,,??,South Hub,1,1,,UPI,Cancelled
+909,37,1470,10,8,97,2,Afternoon,North Hub,-1,10,,Unknown,Cancelled
+910,58,771,-5,7,70,1,Morning,,5,2,Yes,Crypto?,Cancelled
+911,5,1234,10,4,107,1,,East Hub,1,1,Unknown,Card,Unknown
+912,22,65,13,-3,57,1,??,West Hub,7,10,Yes,COD,Delivered
+913,36,542,17,3,33,2,Morning,North Hub,-1,4,Yes,COD,Delivered
+914,51,1499,9,6,19,2,??,??,1,3,No,Unknown,Cancelled
+915,53,1181,17,12,49,0,,West Hub,4,4,Yes,COD,Delivered
+916,15,943,9,12,101,2,Late Night,South Hub,3,5,Unknown,Unknown,Delivered
+917,25,1523,9,8,137,2,,??,5,1,Yes,Card,Unknown
+918,30,360,1,1,51,2,,East Hub,7,1,Unknown,COD,Unknown
+919,29,788,2,4,14,1,,South Hub,10,3,,Crypto?,Cancelled
+920,26,1243,16,11,83,,??,Unknown,2,,Yes,Crypto?,Cancelled
+921,31,595,1,3,130,0,Evening,East Hub,7,1,Unknown,UPI,Cancelled
+922,53,463,10,13,36,,,East Hub,1,2,,Unknown,Unknown
+923,17,300,18,50,125,,Afternoon,West Hub,7,8,Unknown,COD,Delivered
+924,37,808,8,10,39,2,Afternoon,South Hub,10,1,,Crypto?,Unknown
+925,38,1854,-5,12,71,0,Morning,South Hub,2,8,No,Card,Unknown
+926,45,1214,11,,39,,Evening,North Hub,-1,4,Yes,Card,Delivered
+927,39,1347,2,10,55,,Morning,??,1,,Yes,UPI,Delivered
+928,5,1489,8,14,,0,Afternoon,Unknown,,10,,Card,Cancelled
+929,25,1681,8,13,103,2,Afternoon,South Hub,1,-2,No,Card,Delivered
+930,52,1812,17,5,138,,Late Night,North Hub,3,,Unknown,COD,Delivered
+931,59,1964,15,6,109,1,,Unknown,,-2,No,Unknown,Delivered
+932,10,1112,17,2,135,,Afternoon,Central Hub,3,4,Unknown,,Delivered
+933,32,863,13,50,92,1,??,Central Hub,10,,Unknown,Card,Cancelled
+934,21,78,19,4,93,2,??,Unknown,5,10,Yes,Card,Cancelled
+935,9,1007,5,14,55,,Morning,Central Hub,2,-2,,,Delivered
+936,35,526,12,10,59,0,Morning,,4,3,Yes,Card,Delivered
+937,9,367,1,3,137,0,,South Hub,-1,2,Yes,COD,Cancelled
+938,42,294,5,3,38,,,,4,,Yes,COD,Cancelled
+939,7,797,8,,27,2,Late Night,??,10,4,Unknown,,Delivered
+940,57,746,13,6,48,2,Evening,South Hub,5,1,Yes,Crypto?,Unknown
+941,27,321,8,50,124,0,Morning,North Hub,1,10,Unknown,Card,Cancelled
+942,41,1513,11,12,12,,,,7,-2,,Crypto?,Cancelled
+943,57,1821,1,11,35,2,Morning,,3,-2,Unknown,Card,Cancelled
+944,41,1312,13,4,100,0,,??,10,2,Unknown,Unknown,Delivered
+945,14,426,19,6,25,1,Afternoon,,3,-2,No,Card,Delivered
+946,14,315,3,1,85,,Morning,East Hub,1,8,Yes,COD,Cancelled
+947,23,975,17,0,3,1,Afternoon,North Hub,5,5,Yes,UPI,Delivered
+948,21,970,5,,81,1,Morning,Central Hub,2,8,Yes,UPI,Delivered
+949,25,1432,,50,126,2,Evening,North Hub,4,-2,Yes,UPI,Cancelled
+950,18,389,-5,8,87,2,Late Night,East Hub,1,10,No,UPI,Delivered
+951,13,438,8,12,126,2,??,??,-1,,No,Crypto?,Unknown
+952,50,626,14,10,119,,??,??,,4,No,Crypto?,Delivered
+953,5,1762,4,,21,1,??,South Hub,10,1,No,Card,Delivered
+954,55,52,11,9,129,,Afternoon,North Hub,4,,Yes,Crypto?,Cancelled
+955,49,1502,,2,30,2,,Unknown,-1,3,Unknown,Card,Cancelled
+956,17,1215,15,5,118,1,??,Unknown,2,,,Unknown,Unknown
+957,8,425,19,6,10,,Evening,??,-1,,No,Card,Delivered
+958,5,1743,7,7,45,,??,,5,4,Unknown,UPI,Unknown
+959,53,373,19,1,95,0,Morning,??,,2,No,,Unknown
+960,44,195,19,7,9,,Afternoon,??,3,-2,Yes,,Cancelled
+961,36,342,11,12,127,2,Morning,??,4,2,Yes,COD,Delivered
+962,38,1738,5,0,-20,,Morning,??,,3,Unknown,COD,Cancelled
+963,32,481,5,0,98,1,Morning,Unknown,7,1,Unknown,Card,Unknown
+964,35,754,8,11,111,,Late Night,Unknown,1,8,Unknown,,Unknown
+965,12,998,10,4,59,0,Late Night,Central Hub,7,1,Yes,UPI,Cancelled
+966,43,634,6,13,86,1,,Central Hub,1,-2,Yes,Crypto?,Cancelled
+967,30,448,15,7,144,1,Afternoon,South Hub,5,1,,UPI,Cancelled
+968,-10,866,16,4,64,0,Evening,??,,5,Unknown,UPI,Cancelled
+969,38,1962,17,,56,2,Evening,Unknown,2,8,,Card,Cancelled
+970,58,1417,8,9,105,1,Evening,North Hub,-1,3,No,Card,Unknown
+971,58,1013,8,11,8,2,Morning,East Hub,,-2,,Unknown,Cancelled
+972,7,1213,9,8,21,1,Late Night,South Hub,7,10,No,UPI,Delivered
+973,54,236,2,1,140,1,Afternoon,Unknown,10,3,No,UPI,Unknown
+974,16,1878,15,8,88,2,Morning,North Hub,1,5,,Card,Unknown
+975,5,110,18,13,17,1,Late Night,??,10,8,Unknown,Card,Delivered
+976,58,988,3,4,114,2,Late Night,West Hub,4,4,No,Unknown,Delivered
+977,48,1453,17,8,144,0,??,??,10,5,Unknown,Unknown,Unknown
+978,9,759,4,3,142,2,??,Central Hub,,3,Yes,COD,Cancelled
+979,34,856,4,9,105,0,Afternoon,East Hub,-1,-2,No,,Unknown
+980,34,1513,14,2,14,1,Afternoon,Unknown,4,-2,Yes,UPI,Unknown
+981,120,1392,9,2,62,2,Afternoon,Unknown,2,8,,UPI,Delivered
+982,21,1375,9,13,12,1,Morning,,2,2,Unknown,Unknown,Unknown
+983,52,1417,18,,80,2,,East Hub,5,8,,Unknown,Cancelled
+984,51,60,10,12,31,0,Afternoon,,-1,8,No,COD,Delivered
+985,27,1135,-5,4,136,0,??,East Hub,3,5,Yes,,Unknown
+986,19,1918,4,8,39,2,,Central Hub,10,-2,No,COD,Unknown
+987,41,275,12,9,147,0,Morning,,4,3,,,Cancelled
+988,25,1226,8,5,81,1,,North Hub,,4,Unknown,Crypto?,Unknown
+989,18,1784,2,-3,76,1,Evening,,,1,Unknown,UPI,Unknown
+990,6,613,13,11,75,,,South Hub,3,,No,COD,Unknown
+991,15,821,-5,,37,0,Afternoon,North Hub,5,4,No,Unknown,Unknown
+992,55,1644,16,9,70,1,Morning,South Hub,3,1,Yes,COD,Cancelled
+993,43,1657,2,50,47,2,Afternoon,??,1,2,,Crypto?,Unknown
+994,42,1733,11,12,17,0,??,East Hub,7,3,No,COD,Unknown
+995,38,1934,10,7,143,1,Evening,North Hub,4,-2,Yes,UPI,Unknown
+996,42,1648,15,10,38,0,??,East Hub,7,10,No,Crypto?,Delivered
+997,54,1383,17,10,88,2,Afternoon,??,3,8,Unknown,Unknown,Cancelled
+998,38,934,8,13,61,1,Afternoon,West Hub,5,4,Yes,Unknown,Delivered
+999,22,1316,18,11,140,,Afternoon,Unknown,5,1,Yes,Card,Delivered
+1000,34,1566,9,13,108,,Late Night,East Hub,2,10,No,Crypto?,Cancelled
