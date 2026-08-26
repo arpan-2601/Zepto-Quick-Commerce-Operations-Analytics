@@ -6,17 +6,6 @@ This project presents an end-to-end data analytics solution built on Zepto's qui
 
 The core business problem addressed: which warehouse hubs are underperforming, and what operational factors — delivery delays, cancellations, surge pricing, or low ratings — are driving poor customer experience?
 
-📂 Repository Structure
-zepto-analytics/
-│
-├── zepto.ipynb               # Python notebook — data cleaning & EDA
-
-├── zepto_cleaned.csv         # Cleaned dataset (output of notebook)
-
-├── zeptopbi.pbix             # Power BI dashboard file
-
-└── README.md
-
 🧹 Data Cleaning & Preprocessing (Python)
 
 File: zepto.ipynb
