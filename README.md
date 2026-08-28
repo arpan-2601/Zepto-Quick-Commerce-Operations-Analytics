@@ -93,3 +93,17 @@ Key Insights
 4. Which payment method (UPI, Card, COD) correlates with higher order values
 
 5. Revenue contribution by distance zone (Near, Medium, Far) across time slots
+
+Files description
+
+1. Dashboard.png- Power BI dashboard image
+
+2. README.md- Project description
+
+3. zepto.ipynb- Python file
+
+4. zepto_cleaned.csv- Cleaned file
+
+5. zepto_mess.csv- Raw data file
+
+6. zeptopbi.pbix- Power BI file
